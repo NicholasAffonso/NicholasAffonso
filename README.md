@@ -1,4 +1,4 @@
-# Shubhamdeep Jha&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Shubhamdeep Jha&nbsp;<img src="https://media4.giphy.com/media/PXYNIsoTMXb0jkNwm5/giphy.gif?cid=790b7611845b47cf4101a17161306abc33a8f4de7105d9ed&rid=giphy.gif&ct=g" width="30px">
 
 
 <!-- 
