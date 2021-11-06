@@ -17,7 +17,7 @@
 </br>
 </br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://media4.giphy.com/media/2yzgWbRc97QOIUpklz/giphy.gif?cid=790b7611e6e6106e2729fa82fd21e7073eeae834a815dc47&rid=giphy.gif&ct=g" alt="Mario Game" height="200">
 
 </br>
 
