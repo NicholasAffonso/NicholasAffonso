@@ -1,5 +1,5 @@
 # Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="155" />
 
 <p>
   <em>
@@ -12,21 +12,15 @@
 
 ---
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAffonso&theme=dark&hide_langs_below=1"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAffonso&theme=dark&hide_langs_below=1"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasAffonso&show_icons=true&theme=dark&line_height=27"/>
 
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasAffonso&show_icons=true&theme=dark&line_height=27"/>
-
-<br>
-<br>
-<br>
+</br>
+</br>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
-<br>
-<br>
+</br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Me segue lá
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode)&nbsp;&nbsp;&nbsp;[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode)&nbsp;&nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.pngalt=" alt="instagram logo" width="32">](https://www.instagram.com/nicholas_affonso/)&nbsp;&nbsp;&nbsp;[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nicholasaffonsop@gmail.com)&nbsp;&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance logo" height="32"/>](https://www.behance.net/nicholasaf0f9a)
