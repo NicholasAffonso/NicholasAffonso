@@ -17,7 +17,7 @@
 </br>
 </br>
 
-<img src="https://media4.giphy.com/media/2yzgWbRc97QOIUpklz/giphy.gif?cid=790b7611e6e6106e2729fa82fd21e7073eeae834a815dc47&rid=giphy.gif&ct=g" alt="Mario Game" height="200">
+<img align="center" src="https://media0.giphy.com/media/sk6yL9EGVeAcE/giphy.gif?cid=790b7611c009b934d00849f143cf321d478f51cc816f48ec&rid=giphy.gif&ct=g" alt="Mario Game" width="550">
 
 </br>
 
