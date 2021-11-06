@@ -1,27 +1,14 @@
-# Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 <p>
   <em>
-    Atualmente estudo Sistemas de Informação na <a href="https://www.uva.br/"> <b>Universidade Veiga de Almeida</b>, Rio de janeiro-Brasil</a>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></br>
-    Trabalho como <b>Software Developer</b> e <b>Designer,</b></br>
-    Também gosto de desenvolver games, me segue lá no <a href="https://nicholasaffonso.itch.io/"><b>Itch.io</b></a>, talvez eu já tenha postado alguma coisa
+    Atualmente estudo Sistemas de Informação na <a href="https://www.uva.br/"> <b>Universidade Veiga de Almeida</b>, Brasil-Rj </a>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"></br>
+    Trabalho com <b>Desenvolvimento de Software</b> e <b>Design.</b></br>
+    Também gosto de desenvolver games, me segue lá no <a href="https://nicholasaffonso.itch.io/"><b>Itch.io</b></a>, talvez eu já tenha postado alguma coisa.
     Atualmente estou estudando eletrônica por conta própria no projeto de desenvolver uma CNC, pretendo me aprofundar mais em robótica e automação, tenho gostado bastante de aprender sobre o assunto e estou bem empolgado com os resultados
     </em>  
 </p>
-<br>
-
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
-
-
-<br>
-
 <a href="https://github.com/TheDudeThatCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
 </a>
