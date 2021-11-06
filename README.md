@@ -24,7 +24,8 @@
 # Me segue lá
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode)&nbsp; &nbsp; 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="CodePen Logo" width="32">](https://twitter.com/TheDudeThatCode)&nbsp; &nbsp;
-[<img src="https://www.pinclipart.com/picdir/big/119-1198369_instagram-2016-logo-svg-vector-amp-png-transparent.png" alt="Instagram logo" width="32">](https://www.instagram.com/nicholas_affonso/)&nbsp; &nbsp;
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nicholasaffonsop@gmail.com)&nbsp; &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance logo" height="32"/>](https://www.behance.net/nicholasaf0f9a)
+[<img src="https://www.seekpng.com/png/full/932-9322813_codepen-icon-logo-black-and-white-png-format.png" alt="CodePen Logo" width="32">](https://codepen.io/nicholasaffonso)&nbsp; &nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram Logo" width="32">](https://www.instagram.com/nicholas_affonso/)&nbsp; &nbsp;
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail Logo" height="32">](mailto:nicholasaffonsop@gmail.com)&nbsp; &nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance Logo" height="32"/>](https://www.behance.net/nicholasaf0f9a)&nbsp; &nbsp;
+[<img src="https://static.itch.io/images/itchio-textless-white.svg" alt="Itch.io Logo" height="32"/>](https://nicholasaffonso.itch.io/)
