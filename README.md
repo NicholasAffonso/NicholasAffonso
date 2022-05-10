@@ -15,11 +15,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAffonso&theme=dark&hide_langs_below=1"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasAffonso&show_icons=true&theme=dark&line_height=27"/>
 
 </br>
-</br>
 
-<img align="center" src="https://media0.giphy.com/media/sk6yL9EGVeAcE/giphy.gif?cid=790b7611c009b934d00849f143cf321d478f51cc816f48ec&rid=giphy.gif&ct=g" alt="Mario Game" width="550">
-
-</br>
 
 # Me segue lá
 
