@@ -5,7 +5,7 @@
   <em>
     Sou estudante de Sistemas de Informação na <a href="https://www.uva.br/"> <b>Universidade Veiga de Almeida</b>, Brasil-Rj </a>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"></br>
     Trabalho com <b>Desenvolvimento de Software</b> e <b>Design.</b></br>
-    Também gosto de desenvolver games, me segue lá no <a href="https://nicholasaffonso.itch.io/"><b>Itch.io</b></a>, talvez eu já tenha postado alguma coisa.</br>
+    Também gosto de desenvolver alguns games, me segue lá no <a href="https://nicholasaffonso.itch.io/"><b>Itch.io</b></a>, talvez eu já tenha postado alguma coisa.</br>
     Atualmente estou estudando eletrônica por conta própria no na intenção de desenvolver uma CNC, pretendo me aprofundar mais em robótica e automação, tenho gostado bastante de aprender sobre o assunto e estou bem empolgado com os resultados
     </em>
 </p>
