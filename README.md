@@ -1,12 +1,12 @@
-# Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px">
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="18px" />
+# HI [![catHighfive](https://cdn3.emoji.gg/emojis/8431-cathighfive.gif)](https://emoji.gg/emoji/8431-cathighfive)
 
 <p>
   <em>
-    Sou estudante de Sistemas de Informação na <a href="https://www.uva.br/"> <b>Universidade Veiga de Almeida</b>, Brasil-Rj </a>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"></br>
-    Trabalho com <b>Desenvolvimento de Software</b> e <b>Design.</b></br>
-    Também gosto de desenvolver alguns games, me segue lá no <a href="https://nicholasaffonso.itch.io/"><b>Itch.io</b></a>, talvez eu já tenha postado alguma coisa.</br>
-    Atualmente estou estudando eletrônica por conta própria no na intenção de desenvolver uma CNC, pretendo me aprofundar mais em robótica e automação, tenho gostado bastante de aprender sobre o assunto e estou bem empolgado com os resultados
+I am a university student here in rio de janeiro brazil, I teach technology for free to people in my community, involved with philanthropic projects here in rio to bring technology education to the favelas
+
+I like to work with electronics in automation projects with arduino, fix things, develop games and websites
+
+Currently excited about web3 and studying development techniques and tools for the decentralized web
     </em>
 </p>
 
