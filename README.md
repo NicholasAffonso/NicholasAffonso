@@ -1,14 +1,10 @@
-# HI [![catHighfive](https://cdn3.emoji.gg/emojis/8431-cathighfive.gif)](https://emoji.gg/emoji/8431-cathighfive)
+# HI 
 
-<p>
-  <em>
-I am a university student here in rio de janeiro brazil, I teach technology for free to people in my community, involved with philanthropic projects here in rio to bring technology education to the favelas
+I am a university student here in Rio de Janeiro Brasil 🌎, teaching technology for free to people in my community, involved with philanthropic projects here in Rio to bring technology education to the favelas
 
-I like to work with electronics in automation projects with arduino, fix things, develop games and websites
+Also like to work with electronics in automation projects with arduino, fix things, develop games and websites 🤓
 
-Currently excited about web3 and studying development techniques and tools for the decentralized web
-    </em>
-</p>
+Currently excited about web3 and studying development techniques and tools for the decentralized web 🫶
 
 ---
 
@@ -17,7 +13,7 @@ Currently excited about web3 and studying development techniques and tools for t
 </br>
 
 
-# Me segue lá
+# Follow me there
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/nicholasaffonsop/)&nbsp; &nbsp; 
 [<img src="https://www.seekpng.com/png/full/932-9322813_codepen-icon-logo-black-and-white-png-format.png" alt="CodePen Logo" width="32">](https://codepen.io/nicholasaffonso)&nbsp; &nbsp;
