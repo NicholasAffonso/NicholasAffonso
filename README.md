@@ -1,12 +1,6 @@
-<br/>
-██╗  ██╗███████╗██╗     ██╗      ██████╗<br/>
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗<br/>
-███████║█████╗  ██║     ██║     ██║   ██║<br/>
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║<br/>
-██║  ██║███████╗███████╗███████╗╚██████╔╝<br/>
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝<br/>
-<br/>
-I am a university student here in Rio de Janeiro Brasil 🌎, teaching technology for free to people in my community, involved with philanthropic projects here in Rio to bring technology education to the favelas
+## нєℓℓσ
+
+I am a college student here in Rio de Janeiro Brasil 🌎, teaching technology for free to people in my community, involved with philanthropic projects here in Rio to bring technology education to the favelas
 
 Also like to work with electronics in automation projects with arduino, fix things, develop games and websites 🤓
 
