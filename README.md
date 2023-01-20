@@ -1,16 +1,10 @@
 ## нєℓℓσ
 
-I am a college student here in Rio de Janeiro Brasil 🌎, teaching technology for free to people in my community, involved with philanthropic projects here in Rio to bring technology education to the favelas
+I am a college student here in Rio de Janeiro Brasil 🌎, involved with philanthropic projects here in Rio to bring technology education to the people
 
-Also like to work with electronics in automation projects with arduino, fix things, develop games and websites 🤓
+Also like to work with electronics in automation projects with arduino, fix things, develop games and websites
 
-Currently excited about web3 and studying development techniques and tools for the decentralized web 🫶
-
----
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAffonso&theme=dark&hide_langs_below=1"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasAffonso&show_icons=true&theme=dark&line_height=27"/>
-
-</br>
+Currently excited about web3 and studying development techniques and tools for the decentralized web
 
 
 # Follow me there
