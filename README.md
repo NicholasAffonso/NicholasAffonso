@@ -1,6 +1,6 @@
 ## нєℓℓσ
 
-I am a college student here in Rio de Janeiro Brasil 🌎, involved with philanthropic projects here in Rio to bring technology education to the people
+I am a college student here in Rio de Janeiro Brasil 🌎, involved with philanthropic projects to bring technology education to the people
 
 Also like to work with electronics in automation projects with arduino, fix things, develop games and websites
 
