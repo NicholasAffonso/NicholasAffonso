@@ -1,8 +1,8 @@
 ## нєℓℓσ
 
-I am a college student here in Rio de Janeiro Brasil 🌎, involved with philanthropic projects to bring technology education to the people
+I Living in Rio de Janeiro Brasil 🌎, involved with philanthropic projects to bring technology education to the people
 
-Also like to work with electronics in automation projects with arduino, fix things, develop games and websites
+Also like to work with electronics in automation projects, fix things and develop things for web
 
 Currently excited about web3 and studying development techniques and tools for build descentralized things
 
