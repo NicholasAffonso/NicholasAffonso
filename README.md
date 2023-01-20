@@ -4,7 +4,7 @@ I am a college student here in Rio de Janeiro Brasil 🌎, involved with philant
 
 Also like to work with electronics in automation projects with arduino, fix things, develop games and websites
 
-Currently excited about web3 and studying development techniques and tools for the decentralized web
+Currently excited about web3 and studying development techniques and tools for build descentralized things
 
 
 # Follow me there
