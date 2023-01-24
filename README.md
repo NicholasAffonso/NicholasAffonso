@@ -1,6 +1,6 @@
 ## нєℓℓσ
 
-I Living in Rio de Janeiro Brasil 🌎, involved with philanthropic projects to bring technology education to the people
+Living in Rio de Janeiro Brasil 🌎, involved with philanthropic projects to bring technology education to the people
 
 Also like to work with electronics in automation projects, fix things and develop things for web
 
