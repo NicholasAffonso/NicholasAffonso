@@ -1,4 +1,4 @@
-## нєℓℓσ, 𝘄𝗼𝗿𝗹𝗱_!
+## нєℓℓσ 𝘄𝗼𝗿𝗹𝗱!
 
 📍 Do Rio de Janeiro para o mundo, sou educador e desenvolvedor. Trabalho com projetos que unem **tecnologia e transformação social**, levando conhecimento técnico onde ele realmente importa: para as pessoas.
 
