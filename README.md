@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=𝕄𝕚𝕔𝕣𝕠𝕔𝕒𝕞𝕡%20ℙ𝕣𝕠𝕗𝕚𝕝𝕖&fontSize=40&fontAlign=center&fontColor=ffffff" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=1a1a1a&height=200&width=1200&section=header&text=Hello%20World&fontSize=45&fontAlign=center&fontColor=00ffe0&desc=Educa%C3%A7%C3%A3o%20Tecnol%C3%B3gica%20e%20Cyber%20Ativismo&descSize=20&descAlign=center&descColor=ff00ff" />
 
 ## нєℓℓσ, 𝘄𝗼𝗿𝗹𝗱_!
 
