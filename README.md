@@ -1,5 +1,3 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=1a1a1a&height=250&width=1800&section=header&text=Hello%20World&fontSize=45&fontAlign=center&fontColor=00ffe0&desc=Educa%C3%A7%C3%A3o%20Tecnol%C3%B3gica%20e%20Cyber%20Ativismo&descSize=20&descAlign=center&descColor=ff00ff" />
-
 ## нєℓℓσ, 𝘄𝗼𝗿𝗹𝗱_!
 
 📍 Do Rio de Janeiro para o mundo, sou educador, desenvolvedor e eterno hacker pedagógico. Trabalho com projetos que unem **tecnologia e transformação social**, levando conhecimento técnico onde ele realmente importa: para as pessoas.
