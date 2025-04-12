@@ -5,7 +5,7 @@
 🛠️ Sou fascinado por sistemas livres, automações com Arduino, redes complexas e tudo que envolva administração de sistemas e infraestrutura. Gosto de misturar eletrônica, filosofia e estética cyberpunk com um pé no terminal e outro na sala de aula.
 
 💻 No momento estou construindo e administrando uma estrutura educacional baseada em servidores **Proxmox** fornecendo serviços como **Samba4** para File Server e **Active Directory**, **VPN**, **ERP** e outros serviços sob demanda.  
-Estou sempre buscando soluções descentralizadas, livres e leves. Com isso ajudo empresas e pessoas a selivrarem das amarras do ambiente proprietário para asumir o controle da sua própria infraestrutura computacional com segurança e performace.
+Estou sempre buscando soluções descentralizadas, livres e leves. Com isso ajudo empresas e pessoas a se livrarem das amarras do ambiente proprietário para asumir o controle da sua própria infraestrutura computacional com segurança e performace.
 
 > ✊ *Tecnologia se compartilha. Código se escreve junto.*
 
