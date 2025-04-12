@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=1a1a1a&height=200&width=1200&section=header&text=Hello%20World&fontSize=45&fontAlign=center&fontColor=00ffe0&desc=Educa%C3%A7%C3%A3o%20Tecnol%C3%B3gica%20e%20Cyber%20Ativismo&descSize=20&descAlign=center&descColor=ff00ff" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=1a1a1a&height=500&width=1200&section=header&text=Hello%20World&fontSize=45&fontAlign=center&fontColor=00ffe0&desc=Educa%C3%A7%C3%A3o%20Tecnol%C3%B3gica%20e%20Cyber%20Ativismo&descSize=20&descAlign=center&descColor=ff00ff" />
 
 ## нєℓℓσ, 𝘄𝗼𝗿𝗹𝗱_!
 
@@ -21,5 +21,3 @@
 [<img src="https://static.itch.io/images/itchio-textless-white.svg" alt="Itch.io Logo" height="32"/>](https://nicholasaffonso.itch.io/)
 
 ---
-
-![Cyberpunk cat](https://media.giphy.com/media/kHqLShubxVjXZXKXOP/giphy.gif)
